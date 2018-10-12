@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Catalogue Movie</string>
+
+
+    <string name="language">Change Language</string>
+    <string name="search">Search</string>
+    <string name="title_activity_side_bar">SideBarActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name_fragment_now_playing">NOW PLAYING</string>
+    <string name="name_fragment_up_coming">UP COMING</string>
+    <string name="name_nowplaying">Now Playing</string>
+    <string name="upcoming">upcoming</string>
+</resources>
